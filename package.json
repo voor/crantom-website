@@ -12,7 +12,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "hugo -t sam"
+    "build": "hugo --minify -t sam"
   },
   "repository": {
     "type": "git",
