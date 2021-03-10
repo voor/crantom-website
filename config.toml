@@ -1,0 +1,31 @@
+baseurl                  = "https://www.crantom.com"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "crantom"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "crantom.ico"
+    homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "Get your code into production faster."
+
+# Metadata for Open Graph and Twitter
+    description          = "Get your code into production faster."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "crantom"
+    # rss                = ""
+
+
+[[params.mainMenu]]
+    link = ""
+    text = "code push go brrrrr"
+
+
+[imaging]
+    quality = 75
