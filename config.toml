@@ -24,7 +24,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = ""
-    text = "code push go brrrrr"
+    text = "Paths to Production for secure, resilient, and scalable applications."
 
 
 [imaging]
