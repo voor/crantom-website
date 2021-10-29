@@ -1,8 +1,8 @@
-baseurl                  = "https://www.crantom.com"           # Your domain name
+baseurl                  = "https://www.create.army"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "crantom"
+title                    = "CReATE"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -18,7 +18,7 @@ pygmentsCodefences       = true
 # Metadata for Open Graph and Twitter
     description          = "Get your code into production faster."               # Max 160 characters show in search results
     images               = ["crantom.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "crantom"
+    title                = "CReATE"
     # rss                = ""
 
 
